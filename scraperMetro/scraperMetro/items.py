@@ -8,7 +8,6 @@
 import scrapy
 
 
-
 class ScrapermetroItem(scrapy.Item):
     # define the fields for your item here like:
     line = scrapy.Field()
