@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
+     xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>Base de Datos Ciudad - Ayuntamiento de Madrid</name>
+        <description>Sólo contiene datos dentro del municipio de Madrid </description>
+        <visibility>1</visibility>
+        <open>1</open> 
+        <Folder>
+	<name>Cercanias</name>
+	<description>Sólo contiene datos dentro del municipio de Madrid</description>
+<Placemark> <Point> <coordinates> -3.593336761776833,
+40.49176762416515 </coordinates> </Point><name>C-1 AEROPUERTO T4</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-1 ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-1 CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6927692985734324,
+40.400367595318635 </coordinates> </Point><name>C-1 DELICIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.662829237134829,
+40.4847413558896 </coordinates> </Point><name>C-1 FUENTE DE LA MORA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.678083333693072,
+40.395373531545985 </coordinates> </Point><name>C-1 MENDEZ ALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-1 NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.711340844052455,
+40.40258818141603 </coordinates> </Point><name>C-1 PIRAMIDES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7202701157641935,
+40.421064507994544 </coordinates> </Point><name>C-1 PRINCIPE PIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6908601632799383,
+40.42340615992542 </coordinates> </Point><name>C-1 RECOLETOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.616437309025623,
+40.48229541766309 </coordinates> </Point><name>C-1 VALDEBEBAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.785867623306033,
+40.4483218454516 </coordinates> </Point><name>C-10 ARAVACA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-10 ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8077462504578428,
+40.46536911220596 </coordinates> </Point><name>C-10 BARRIAL-C.COM.POZUELO, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-10 CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6927692985734324,
+40.400367595318635 </coordinates> </Point><name>C-10 DELICIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.662829237134829,
+40.4847413558896 </coordinates> </Point><name>C-10 FUENTE DE LA MORA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.9818645048730548,
+40.60010752011099 </coordinates> </Point><name>C-10 GALAPAGAR-LA NAVATA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8453554464692945,
+40.47427123756694 </coordinates> </Point><name>C-10 MAJADAHONDA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.89684104191362,
+40.552512233963505 </coordinates> </Point><name>C-10 MATAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.678083333693072,
+40.395373531545985 </coordinates> </Point><name>C-10 MENDEZ ALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-10 NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.88216547527542,
+40.52229261381278 </coordinates> </Point><name>C-10 PINAR DE LAS ROZAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.711340844052455,
+40.40258818141603 </coordinates> </Point><name>C-10 PIRAMIDES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8001238746529773,
+40.447260086569074 </coordinates> </Point><name>C-10 POZUELO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7202701157641935,
+40.421064507994544 </coordinates> </Point><name>C-10 PRINCIPE PIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6908601632799383,
+40.42340615992542 </coordinates> </Point><name>C-10 RECOLETOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8681329046096558,
+40.494228236957326 </coordinates> </Point><name>C-10 ROZAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.956549700643582,
+40.57450104755433 </coordinates> </Point><name>C-10 TORRELODONES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.00810707481334,
+40.62635780522544 </coordinates> </Point><name>C-10 VILLALBA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.366345988497244,
+40.489025382703794 </coordinates> </Point><name>C-2 ALCALÁ DE HENARES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.335417591794884,
+40.505335483779135 </coordinates> </Point><name>C-2 ALCALÁ DE HENARES UNIVERSIDAD</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.668014615023188,
+40.381666238433745 </coordinates> </Point><name>C-2 ASAMBLEA DE MADRID-ENTREVIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-2 ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.265471041498204,
+40.561030509406315 </coordinates> </Point><name>C-2 AZUQUECA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.265471041498204,
+40.561030509406315 </coordinates> </Point><name>C-2 AZUQUECA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-2 CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.561146077392619,
+40.42373013416115 </coordinates> </Point><name>C-2 COSLADA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.3931755498978244,
+40.48043271733471 </coordinates> </Point><name>C-2 GARENA, LA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.1823959246544775,
+40.64408200371336 </coordinates> </Point><name>C-2 GUADALAJARA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.29866449650398,
+40.53461637075031 </coordinates> </Point><name>C-2 MECO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-2 NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6562366719483803,
+40.37589576956187 </coordinates> </Point><name>C-2 POZO, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6908601632799383,
+40.42340615992542 </coordinates> </Point><name>C-2 RECOLETOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5338527701769977,
+40.442661299211494 </coordinates> </Point><name>C-2 SAN FERNANDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6090639338426196,
+40.386982804664136 </coordinates> </Point><name>C-2 SANTA EUGENIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.4413430244597802,
+40.463529069628066 </coordinates> </Point><name>C-2 SOTO DEL HENARES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.479826252209788,
+40.454600927102526 </coordinates> </Point><name>C-2 TORREJON DE ARDOZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6245600075556976,
+40.38220639867893 </coordinates> </Point><name>C-2 VALLECAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.595935723437658,
+40.40131262489014 </coordinates> </Point><name>C-2 VICALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6183087108817347,
+40.03482894347343 </coordinates> </Point><name>C-3 ARANJUEZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-3 ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.709845112818798,
+40.318461135545775 </coordinates> </Point><name>C-3 CASAR, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-3 CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.610028566722413,
+40.15906065556019 </coordinates> </Point><name>C-3 CIEMPOZUELOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.132340864693605,
+40.58526237431351 </coordinates> </Point><name>C-3 ESCORIAL, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.9818645048730548,
+40.60010752011099 </coordinates> </Point><name>C-3 GALAPAGAR-LA NAVATA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7076968841602755,
+40.30547401855334 </coordinates> </Point><name>C-3 GETAFE INDUSTRIAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.89684104191362,
+40.552512233963505 </coordinates> </Point><name>C-3 MATAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-3 NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.88216547527542,
+40.52229261381278 </coordinates> </Point><name>C-3 PINAR DE LAS ROZAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7037400093635178,
+40.2427846835347 </coordinates> </Point><name>C-3 PINTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7258523073891965,
+40.49510136352008 </coordinates> </Point><name>C-3 PITIS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.694745799781866,
+40.48823855927127 </coordinates> </Point><name>C-3 RAMON Y CAJAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.683851282522325,
+40.342356914115214 </coordinates> </Point><name>C-3 SAN CRISTOBAL DE LOS ANGELES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.698720010046481,
+40.33190750723098 </coordinates> </Point><name>C-3 SAN CRISTOBAL INDUSTRIAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.031115097086756,
+40.61785773279367 </coordinates> </Point><name>C-3 SAN YAGO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7030985648988053,
+40.41683686346023 </coordinates> </Point><name>C-3 SOL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.956549700643582,
+40.57450104755433 </coordinates> </Point><name>C-3 TORRELODONES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6648149263178804,
+40.19604004241219 </coordinates> </Point><name>C-3 VALDEMORO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.00810707481334,
+40.62635780522544 </coordinates> </Point><name>C-3 VILLALBA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6839904315941423,
+40.352635537500554 </coordinates> </Point><name>C-3 VILLAVERDE BAJO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.0460682663228775,
+40.6094083043936 </coordinates> </Point><name>C-3 ZORRERAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.635189512222943,
+40.546562556258245 </coordinates> </Point><name>C-4A ALCOBENDAS-S.S. DE LOS REYES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-4A ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.700350083538947,
+40.543780580469516 </coordinates> </Point><name>C-4A CANTOBLANCO UNIVERSIDAD</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-4A CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6823496669951212,
+40.5015555376017 </coordinates> </Point><name>C-4A FUENCARRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7339415328765986,
+40.310094381024776 </coordinates> </Point><name>C-4A GETAFE CENTRO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7373403731967767,
+40.2882434458623 </coordinates> </Point><name>C-4A GETAFE SECTOR 3</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.727384201033014,
+40.323036955698726 </coordinates> </Point><name>C-4A MARGARITAS-UNIVERSIDAD, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-4A NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.769366602325555,
+40.24076335209985 </coordinates> </Point><name>C-4A PARLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7030985648988053,
+40.41683686346023 </coordinates> </Point><name>C-4A SOL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6833429614279485,
+40.55405340698445 </coordinates> </Point><name>C-4A UNIVERSIDAD P. COMILLAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6833429614279485,
+40.55405340698445 </coordinates> </Point><name>C-4A UNIVERSIDAD P. COMILLAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.654341568629256,
+40.54743764052572 </coordinates> </Point><name>C-4A VALDELASFUENTES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7119321282791984,
+40.34122350120482 </coordinates> </Point><name>C-4A VILLAVERDE ALTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6839904315941423,
+40.352635537500554 </coordinates> </Point><name>C-4A VILLAVERDE BAJO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-4B ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.700350083538947,
+40.543780580469516 </coordinates> </Point><name>C-4B CANTOBLANCO UNIVERSIDAD</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-4B CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7757393915731905,
+40.64496269820276 </coordinates> </Point><name>C-4B COLMENAR VIEJO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6823496669951212,
+40.5015555376017 </coordinates> </Point><name>C-4B FUENCARRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7339415328765986,
+40.310094381024776 </coordinates> </Point><name>C-4B GETAFE CENTRO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7373403731967767,
+40.2882434458623 </coordinates> </Point><name>C-4B GETAFE SECTOR 3</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7140759416074705,
+40.55857014504328 </coordinates> </Point><name>C-4B GOLOSO, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.727384201033014,
+40.323036955698726 </coordinates> </Point><name>C-4B MARGARITAS-UNIVERSIDAD, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-4B NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.769366602325555,
+40.24076335209985 </coordinates> </Point><name>C-4B PARLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7030985648988053,
+40.41683686346023 </coordinates> </Point><name>C-4B SOL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.715658181872107,
+40.598433257758494 </coordinates> </Point><name>C-4B TRES CANTOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7119321282791984,
+40.34122350120482 </coordinates> </Point><name>C-4B VILLAVERDE ALTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6839904315941423,
+40.352635537500554 </coordinates> </Point><name>C-4B VILLAVERDE BAJO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.780280303693509,
+40.38117943069571 </coordinates> </Point><name>C-5 AGUILAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.831732961710275,
+40.35007281809477 </coordinates> </Point><name>C-5 ALCORCON</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.760750749791809,
+40.385624906494115 </coordinates> </Point><name>C-5 ALUCHE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-5 ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.791443025609041,
+40.37769814127518 </coordinates> </Point><name>C-5 CUATRO VIENTOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6986167964348917,
+40.37895385196138 </coordinates> </Point><name>C-5 DOCE DE OCTUBRE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.702634855778819,
+40.405118906181 </coordinates> </Point><name>C-5 EMBAJADORES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.768574728023283,
+40.38364522762784 </coordinates> </Point><name>C-5 FANJUL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7988623186055968,
+40.28267273426812 </coordinates> </Point><name>C-5 FUENLABRADA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8284707650991487,
+40.255644047402015 </coordinates> </Point><name>C-5 HUMANES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7442290676830248,
+40.399173948035425 </coordinates> </Point><name>C-5 LAGUNA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.771485710166074,
+40.328976562989126 </coordinates> </Point><name>C-5 LEGANES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.678083333693072,
+40.395373531545985 </coordinates> </Point><name>C-5 MENDEZ ALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.863498351455414,
+40.32849744728476 </coordinates> </Point><name>C-5 MOSTOLES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8823403399691787,
+40.33088681443943 </coordinates> </Point><name>C-5 MOSTOLES EL SOTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.704416796700134,
+40.366900514655114 </coordinates> </Point><name>C-5 ORCASITAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7833493990779954,
+40.31250015059896 </coordinates> </Point><name>C-5 PARQUE POLVORANCA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.705162346126635,
+40.35028313244251 </coordinates> </Point><name>C-5 PUENTE ALCOCER</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.842429042631016,
+40.341887210881154 </coordinates> </Point><name>C-5 RETAMAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8158905774589313,
+40.35652806930174 </coordinates> </Point><name>C-5 SAN JOSE DE VALDERAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7924857886266117,
+40.29671689427977 </coordinates> </Point><name>C-5 SERNA, LA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7119321282791984,
+40.34122350120482 </coordinates> </Point><name>C-5 VILLAVERDE ALTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.748309003520136,
+40.340849729616316 </coordinates> </Point><name>C-5 ZARZAQUEMADA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.366345988497244,
+40.489025382703794 </coordinates> </Point><name>C-7A ALCALÁ DE HENARES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.785867623306033,
+40.4483218454516 </coordinates> </Point><name>C-7A ARAVACA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.668014615023188,
+40.381666238433745 </coordinates> </Point><name>C-7A ASAMBLEA DE MADRID-ENTREVIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-7A ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8077462504578428,
+40.46536911220596 </coordinates> </Point><name>C-7A BARRIAL-C.COM.POZUELO, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-7A CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.561146077392619,
+40.42373013416115 </coordinates> </Point><name>C-7A COSLADA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.3931755498978244,
+40.48043271733471 </coordinates> </Point><name>C-7A GARENA, LA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8453554464692945,
+40.47427123756694 </coordinates> </Point><name>C-7A MAJADAHONDA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-7A NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7258523073891965,
+40.49510136352008 </coordinates> </Point><name>C-7A PITIS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6562366719483803,
+40.37589576956187 </coordinates> </Point><name>C-7A POZO, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8001238746529773,
+40.447260086569074 </coordinates> </Point><name>C-7A POZUELO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7202701157641935,
+40.421064507994544 </coordinates> </Point><name>C-7A PRINCIPE PIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.694745799781866,
+40.48823855927127 </coordinates> </Point><name>C-7A RAMON Y CAJAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6908601632799383,
+40.42340615992542 </coordinates> </Point><name>C-7A RECOLETOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8681329046096558,
+40.494228236957326 </coordinates> </Point><name>C-7A ROZAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5338527701769977,
+40.442661299211494 </coordinates> </Point><name>C-7A SAN FERNANDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6090639338426196,
+40.386982804664136 </coordinates> </Point><name>C-7A SANTA EUGENIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.4413430244597802,
+40.463529069628066 </coordinates> </Point><name>C-7A SOTO DEL HENARES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.479826252209788,
+40.454600927102526 </coordinates> </Point><name>C-7A TORREJON DE ARDOZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6245600075556976,
+40.38220639867893 </coordinates> </Point><name>C-7A VALLECAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.595935723437658,
+40.40131262489014 </coordinates> </Point><name>C-7A VICALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-7B ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-7B ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-7B CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6927692985734324,
+40.400367595318635 </coordinates> </Point><name>C-7B DELICIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.662829237134829,
+40.4847413558896 </coordinates> </Point><name>C-7B FUENTE DE LA MORA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.678083333693072,
+40.395373531545985 </coordinates> </Point><name>C-7B MENDEZ ALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-7B NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.711340844052455,
+40.40258818141603 </coordinates> </Point><name>C-7B PIRAMIDES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7202701157641935,
+40.421064507994544 </coordinates> </Point><name>C-7B PRINCIPE PIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6908601632799383,
+40.42340615992542 </coordinates> </Point><name>C-7B RECOLETOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.366345988497244,
+40.489025382703794 </coordinates> </Point><name>C-8A ALCALÁ DE HENARES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.335417591794884,
+40.505335483779135 </coordinates> </Point><name>C-8A ALCALÁ DE HENARES UNIVERSIDAD</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.668014615023188,
+40.381666238433745 </coordinates> </Point><name>C-8A ASAMBLEA DE MADRID-ENTREVIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-8A ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.265471041498204,
+40.561030509406315 </coordinates> </Point><name>C-8A AZUQUECA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.265471041498204,
+40.561030509406315 </coordinates> </Point><name>C-8A AZUQUECA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-8A CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.561146077392619,
+40.42373013416115 </coordinates> </Point><name>C-8A COSLADA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.132340864693605,
+40.58526237431351 </coordinates> </Point><name>C-8A ESCORIAL, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.9818645048730548,
+40.60010752011099 </coordinates> </Point><name>C-8A GALAPAGAR-LA NAVATA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.3931755498978244,
+40.48043271733471 </coordinates> </Point><name>C-8A GARENA, LA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.1823959246544775,
+40.64408200371336 </coordinates> </Point><name>C-8A GUADALAJARA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.89684104191362,
+40.552512233963505 </coordinates> </Point><name>C-8A MATAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.29866449650398,
+40.53461637075031 </coordinates> </Point><name>C-8A MECO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-8A NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.88216547527542,
+40.52229261381278 </coordinates> </Point><name>C-8A PINAR DE LAS ROZAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7258523073891965,
+40.49510136352008 </coordinates> </Point><name>C-8A PITIS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6562366719483803,
+40.37589576956187 </coordinates> </Point><name>C-8A POZO, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.694745799781866,
+40.48823855927127 </coordinates> </Point><name>C-8A RAMON Y CAJAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6908601632799383,
+40.42340615992542 </coordinates> </Point><name>C-8A RECOLETOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.2467185890231365,
+40.520771925624736 </coordinates> </Point><name>C-8A ROBLEDO DE CHAVELA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5338527701769977,
+40.442661299211494 </coordinates> </Point><name>C-8A SAN FERNANDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.031115097086756,
+40.61785773279367 </coordinates> </Point><name>C-8A SAN YAGO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6090639338426196,
+40.386982804664136 </coordinates> </Point><name>C-8A SANTA EUGENIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.269336298057667,
+40.56891087182879 </coordinates> </Point><name>C-8A SANTA MARIA DE LA ALAMEDA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.479826252209788,
+40.454600927102526 </coordinates> </Point><name>C-8A TORREJON DE ARDOZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.956549700643582,
+40.57450104755433 </coordinates> </Point><name>C-8A TORRELODONES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6245600075556976,
+40.38220639867893 </coordinates> </Point><name>C-8A VALLECAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.595935723437658,
+40.40131262489014 </coordinates> </Point><name>C-8A VICALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.00810707481334,
+40.62635780522544 </coordinates> </Point><name>C-8A VILLALBA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.158172013443555,
+40.53871085739203 </coordinates> </Point><name>C-8A ZARZALEJO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.0460682663228775,
+40.6094083043936 </coordinates> </Point><name>C-8A ZORRERAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.366345988497244,
+40.489025382703794 </coordinates> </Point><name>C-8B ALCALÁ DE HENARES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.335417591794884,
+40.505335483779135 </coordinates> </Point><name>C-8B ALCALÁ DE HENARES UNIVERSIDAD</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.035071166744098,
+40.65815375587412 </coordinates> </Point><name>C-8B ALPEDRETE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.668014615023188,
+40.381666238433745 </coordinates> </Point><name>C-8B ASAMBLEA DE MADRID-ENTREVIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6893092868843853,
+40.40658651228024 </coordinates> </Point><name>C-8B ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.265471041498204,
+40.561030509406315 </coordinates> </Point><name>C-8B AZUQUECA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.265471041498204,
+40.561030509406315 </coordinates> </Point><name>C-8B AZUQUECA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.065909176311622,
+40.73756216129166 </coordinates> </Point><name>C-8B CERCEDILLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.065909176311622,
+40.73756216129166 </coordinates> </Point><name>C-8B CERCEDILLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6824760485471546,
+40.47209555413991 </coordinates> </Point><name>C-8B CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.0358785893943585,
+40.69274825161098 </coordinates> </Point><name>C-8B COLLADO MEDIANO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.561146077392619,
+40.42373013416115 </coordinates> </Point><name>C-8B COSLADA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.9818645048730548,
+40.60010752011099 </coordinates> </Point><name>C-8B GALAPAGAR-LA NAVATA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.3931755498978244,
+40.48043271733471 </coordinates> </Point><name>C-8B GARENA, LA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.1823959246544775,
+40.64408200371336 </coordinates> </Point><name>C-8B GUADALAJARA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.89684104191362,
+40.552512233963505 </coordinates> </Point><name>C-8B MATAS, LAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.29866449650398,
+40.53461637075031 </coordinates> </Point><name>C-8B MECO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.06682396746246,
+40.70733940661548 </coordinates> </Point><name>C-8B MOLINOS, LOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.02190219239213,
+40.63856931899298 </coordinates> </Point><name>C-8B NEGRALES, LOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6923477073536035,
+40.44661350044421 </coordinates> </Point><name>C-8B NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.88216547527542,
+40.52229261381278 </coordinates> </Point><name>C-8B PINAR DE LAS ROZAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7258523073891965,
+40.49510136352008 </coordinates> </Point><name>C-8B PITIS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6562366719483803,
+40.37589576956187 </coordinates> </Point><name>C-8B POZO, EL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.694745799781866,
+40.48823855927127 </coordinates> </Point><name>C-8B RAMON Y CAJAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6908601632799383,
+40.42340615992542 </coordinates> </Point><name>C-8B RECOLETOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5338527701769977,
+40.442661299211494 </coordinates> </Point><name>C-8B SAN FERNANDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6090639338426196,
+40.386982804664136 </coordinates> </Point><name>C-8B SANTA EUGENIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.479826252209788,
+40.454600927102526 </coordinates> </Point><name>C-8B TORREJON DE ARDOZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.956549700643582,
+40.57450104755433 </coordinates> </Point><name>C-8B TORRELODONES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6245600075556976,
+40.38220639867893 </coordinates> </Point><name>C-8B VALLECAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.595935723437658,
+40.40131262489014 </coordinates> </Point><name>C-8B VICALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.00810707481334,
+40.62635780522544 </coordinates> </Point><name>C-8B VILLALBA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.065909176311622,
+40.73756216129166 </coordinates> </Point><name>C-9 CERCEDILLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.9645235015302367,
+40.82225006453072 </coordinates> </Point><name>C-9 COTOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -4.0047452241391746,
+40.78440504245794 </coordinates> </Point><name>C-9 PUERTO NAVACERRADA</name>
+</Placemark>
+        </Folder>
+    </Document>
+</kml>
