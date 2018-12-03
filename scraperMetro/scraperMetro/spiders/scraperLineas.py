@@ -11,20 +11,36 @@ class ScraperlineasSpider(scrapy.Spider):
 
     def parse(self, response):
         # extract station names
-        for line in response.xpath("//*[@id='block-metro-network-status-block']/div/ul/li"):
-            item_loader = ItemLoader(item=SMI(), selector=line)
-            item_loader.add_xpath('line', ".//a/img/@class")
-            yield item_loader.load_item()
 
+        for line in response.xpath("//*[@id='block-metro-network-status-block']/div/ul/li"):
+            line_name = line.xpath(".//a/img/@class").extract_first()
+            self.log(line_name)
             # extract extension url paths to different lines
-        next_page = response.xpath("//*[@id='block-metro-network-status-block']/div/ul/li/a/@href").extract_first()
-        if next_page is not None:
-            next_page_link = response.urljoin(next_page)
-            yield response.follow(url=next_page_link, callback=self.parse_stations)
+            next_page = line.xpath(".//a/@href").extract_first()
+            if next_page is not None:
+                next_page_link = response.urljoin(next_page)
+                yield response.follow(url=next_page_link, callback=self.parse_stations, meta={ 'line_name': line_name })
+
 
     def parse_stations(self, response):
+        item = SMI()
+        item['line'] = response.meta['line_name']
         for station in response.xpath("//*[@id='line-main']/ul/li"):
-            item_loader = ItemLoader(item=SMI(), selector=station)
-            item_loader.add_xpath('station', './/a/p/text()')
-            yield item_loader.load_item()
+            item['station'] = station.xpath(".//a/p/text()").extract_first()
+            info_list = station.xpath(".//*[@id]/div/div/div/div/div/div/div/div/span/text()").extract()
+            if "Estación accesible" in info_list:
+                item['accesible'] = True
+            else:
+                item['accesible'] = False
 
+            if "Ascensores" in info_list:
+                item['elevator'] = True
+            else:
+                item['elevator'] = False
+
+            if "Escaleras Mecánicas" in info_list:
+                item['mechanic_stairs'] = True
+            else:
+                item['mechanic_stairs'] = False
+
+            yield item
