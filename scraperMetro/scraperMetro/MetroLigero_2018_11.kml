@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"
      xmlns:atom="http://www.w3.org/2005/Atom">
     <Document>
         <name>Base de Datos Ciudad - Ayuntamiento de Madrid</name>
-        <description>Sólo contiene datos dentro del municipio de Madrid </description>
+        <description>Sï¿½lo contiene datos dentro del municipio de Madrid </description>
         <visibility>1</visibility>
-        <open>1</open> 
+        <open>1</open>
         <Folder>
 	<name>Metro Ligero</name>
-	<description>Sólo contiene datos dentro del municipio de Madrid</description>
+	<description>Sï¿½lo contiene datos dentro del municipio de Madrid</description>
 <Placemark> <Point> <coordinates> -3.651366911389661,
 40.48904073160042 </coordinates> </Point><name>1 ALVAREZ DE VILLAAMIL</name>
 </Placemark>
@@ -16,7 +16,7 @@
 40.4854519186063 </coordinates> </Point><name>1 ANTONIO SAURA</name>
 </Placemark>
 <Placemark> <Point> <coordinates> -3.6558486649127078,
-40.49367300821871 </coordinates> </Point><name>1 BLASCO IBAÑEZ</name>
+40.49367300821871 </coordinates> </Point><name>1 BLASCO IBAï¿½EZ</name>
 </Placemark>
 <Placemark> <Point> <coordinates> -3.663254681489714,
 40.48481098673565 </coordinates> </Point><name>1 FUENTE DE LA MORA</name>
@@ -52,7 +52,7 @@
 40.40720565862605 </coordinates> </Point><name>2 COLONIA DE LOS ANGELES</name>
 </Placemark>
 <Placemark> <Point> <coordinates> -3.7745708857748794,
-40.39697466372766 </coordinates> </Point><name>2 COLONIA JARDIN</name>
+40.39697466372766 </coordinates> </Point><name>2 COLONIA JARDÃN</name>
 </Placemark>
 <Placemark> <Point> <coordinates> -3.8016233717957095,
 40.43252903351356 </coordinates> </Point><name>2 DOS CASTILLAS</name>
@@ -91,7 +91,7 @@
 40.39687382679988 </coordinates> </Point><name>3 COCHERAS</name>
 </Placemark>
 <Placemark> <Point> <coordinates> -3.7745119729166814,
-40.39697505836004 </coordinates> </Point><name>3 COLONIA JARDIN</name>
+40.39697505836004 </coordinates> </Point><name>3 COLONIA JARDÃN</name>
 </Placemark>
 <Placemark> <Point> <coordinates> -3.8793905680938137,
 40.40195470715404 </coordinates> </Point><name>3 FERIAL DE BOADILLA</name>

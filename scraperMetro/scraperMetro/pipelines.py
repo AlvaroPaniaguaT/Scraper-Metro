@@ -7,5 +7,28 @@
 import xml.etree.ElementTree as ET
 
 class ScrapermetroPipeline(object):
+
+    def open_spider(self, spider):
+        self.file_metro = ET.parse('/home/alvaro/Escritorio/Máster-DataScience/Obtencion-De-Datos/Scraper-Metro/scraperMetro/scraperMetro/Metro_2018_11.kml')
+        self.file_metro_l = ET.parse('/home/alvaro/Escritorio/Máster-DataScience/Obtencion-De-Datos/Scraper-Metro/scraperMetro/scraperMetro/MetroLigero_2018_11.kml')
+        self.root = self.file_metro.getroot()
+        self.root2 = self.file_metro_l.getroot()
+
+        self.stations = self.root.findall(".//{http://www.opengis.net/kml/2.2}Placemark/{http://www.opengis.net/kml/2.2}name")
+        print(len(self.stations))
+        self.stations += self.root2.findall(".//{http://www.opengis.net/kml/2.2}Placemark/{http://www.opengis.net/kml/2.2}name")
+
+        self.coordinates = self.root.findall(".//{http://www.opengis.net/kml/2.2}Placemark/{http://www.opengis.net/kml/2.2}Point/{http://www.opengis.net/kml/2.2}coordinates")
+        print(len(self.coordinates))
+        self.coordinates += self.root2.findall(".//{http://www.opengis.net/kml/2.2}Placemark/{http://www.opengis.net/kml/2.2}Point/{http://www.opengis.net/kml/2.2}coordinates")
+
     def process_item(self, item, spider):
-        self.log(item)
+        for pos, station in enumerate(self.stations):
+            if item['station'].upper() == "ARGÜELLES":
+
+                print(item['station'].upper(), station.text)
+            if item['station'].upper() in station.text:
+                item['coordinates'] = self.coordinates[pos].text.replace("\n", " ").split(",")
+                break
+
+        return item

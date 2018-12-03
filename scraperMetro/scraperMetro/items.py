@@ -15,3 +15,4 @@ class ScrapermetroItem(scrapy.Item):
     accesible = scrapy.Field()
     elevator = scrapy.Field()
     mechanic_stairs = scrapy.Field()
+    coordinates = scrapy.Field()
