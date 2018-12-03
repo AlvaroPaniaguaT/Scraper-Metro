@@ -12,5 +12,6 @@ class ScrapermetroItem(scrapy.Item):
     # define the fields for your item here like:
     line = scrapy.Field()
     station = scrapy.Field()
-    access = scrapy.Field()
-
+    accesible = scrapy.Field()
+    elevator = scrapy.Field()
+    mechanic_stairs = scrapy.Field()
