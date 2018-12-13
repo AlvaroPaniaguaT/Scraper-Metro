@@ -1,0 +1,328 @@
+coordinates,mechanic_stairs,line,url_linea,elevator,accesible,station
+" -3.6924180862691784, 40.446577042902604 ",True,linea-8,https://www.metromadrid.es/es/linea/linea-8#estacion-618,True,True,Nuevos Ministerios
+" -3.676832402038624, 40.456336002823406 ",True,linea-8,https://www.metromadrid.es/es/linea/linea-8#estacion-802,True,True,Colombia
+" -3.6486745747509053, 40.467992917343715 ",True,linea-8,https://www.metromadrid.es/es/linea/linea-8#estacion-803,True,True,Pinar del Rey
+" -3.6383312545367454, 40.46941986762225 ",True,linea-8,https://www.metromadrid.es/es/linea/linea-8#estacion-418,True,True,Mar de Cristal
+" -3.6383312545367454, 40.46941986762225 ",True,linea-8,https://www.metromadrid.es/es/linea/linea-8#estacion-805,True,True,Feria de Madrid
+" -3.6383312545367454, 40.46941986762225 ",True,linea-8,https://www.metromadrid.es/es/linea/linea-8#estacion-806,True,True,Aeropuerto T1-T2-T3
+" -3.582531126058038, 40.475768604419436 ",True,linea-8,https://www.metromadrid.es/es/linea/linea-8#estacion-807,True,True,Barajas
+" -3.582531126058038, 40.475768604419436 ",True,linea-8,https://www.metromadrid.es/es/linea/linea-8#estacion-808,True,True,Aeropuerto T-4
+" -3.774618016060599, 40.39697434800015 ",True,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-1016,True,True,Colonia Jardín
+" -3.7812192922444003, 40.402290316776224 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5212,False,True,Prado de la Vega
+" -3.7812192922444003, 40.402290316776224 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5213,False,True,Colonia de los Ángeles
+" -3.7874895769878942, 40.41046401739344 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5214,False,True,Prado del Rey
+" -3.7925323903258628, 40.41535749377666 ",True,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5215,True,True,Somosaguas Sur
+" -3.798744151603397, 40.41935979143648 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5216,False,True,Somosaguas Centro
+" -3.80448162240161, 40.423067755001526 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5217,False,True,Pozuelo Oeste
+" -3.80448162240161, 40.423067755001526 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5219,False,True,Bélgica
+" -3.8016233717957095, 40.43252903351356 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5220,False,True,Dos Castillas
+" -3.7952551244314376, 40.433374816567124 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5221,False,True,Campus de Somosaguas
+" -3.793061094805115, 40.439299781486184 ",True,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5222,True,True,Avenida de Europa
+" -3.6903820686972306, 40.4515802047538 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5223,False,True,Berna
+" -3.6903820686972306, 40.4515802047538 ",False,ml2,https://www.metromadrid.es/es/linea/ml2#estacion-5224,False,True,Estación de Aravaca
+" -3.744300361169432, 40.39922754347372 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-601,True,True,Laguna
+" -3.74100000338481, 40.392699152623656 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-602,True,True,Carpetana
+" -3.731327675889255, 40.38846340308106 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-523,False,False,Oporto
+" -3.731327675889255, 40.38846340308106 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-604,False,False,Opañel
+" -3.7182557200044104, 40.384599358863206 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-605,True,False,Plaza Elíptica
+" -3.7069010072851825, 40.38709277398245 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-606,True,True,Usera
+" -3.695125551387507, 40.391146176794116 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-301,True,True,Legazpi
+" -3.6886414650639274, 40.39309490002911 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-608,True,True,Arganzuela-Planetario
+" -3.6886414650639274, 40.39309490002911 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-609,False,False,Méndez Álvaro
+" -3.6886414650639274, 40.39309490002911 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-118,True,True,Pacífico
+" -3.5345387003640565, 40.41760391086565 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-760,True,True,Hospital del Henares
+" -3.6668070437216325, 40.48013291749131 ",True,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-153,True,True,Pinar de Chamartín
+" -3.663254681489714, 40.48481098673565 ",True,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-5112,True,True,Fuente de la Mora
+" -3.66099048556045, 40.48733745493073 ",True,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-5113,True,True,Virgen del Cortijo
+" -3.653538626506948, 40.4854519186063 ",False,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-5114,False,True,Antonio Saura
+" -3.812116233154177, 40.34523919601582 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1021,True,True,Puerta del Sur
+" -3.670409622513099, 40.40696791355658 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-611,True,True,Conde de Casal
+" -3.669523455578141, 40.41506318581949 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-612,True,True,Sainz de Baranda
+" -3.669523455578141, 40.41506318581949 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-613,False,False,O´Donnell
+" -3.6692617275650825, 40.42790259126464 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-202,False,False,Manuel Becerra
+" -3.6692617275650825, 40.42790259126464 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-410,False,False,Diego de León
+" -3.6692617275650825, 40.42790259126464 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-411,False,False,Avenida de América
+" -3.6692617275650825, 40.42790259126464 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-617,False,False,República Argentina
+" -3.6924180862691784, 40.446577042902604 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-618,True,True,Nuevos Ministerios
+" -3.5271847560338285, 40.41776380376927 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-759,True,True,Henares
+" -3.525504191899041, 40.422951678568836 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-758,True,True,Jarama
+" -3.535417765096221, 40.42441070943472 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-757,True,True,San Fernando
+" -3.5479311641242512, 40.42514488006425 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-756,True,True,La Rambla
+" -3.561193228398721, 40.423729905298636 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-755,True,True,Coslada Central
+" -3.569198792073217, 40.42249256252064 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-754,True,True,Barrio del Puerto
+" -3.569198792073217, 40.42249256252064 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-751,True,True,Estadio Metropolitano
+" -3.6078871300557416, 40.43298035455762 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-701,False,False,Las Musas
+" -3.6154696062824123, 40.427985259797985 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-702,False,False,San Blas
+" -3.625725983210804, 40.42798425779678 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-703,False,False,Simancas
+" -3.625725983210804, 40.42798425779678 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-704,False,False,García Noblejas
+" -3.653538626506948, 40.4854519186063 ",False,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-5115,False,True,Álvarez de Villaamil
+" -3.653538626506948, 40.4854519186063 ",True,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-5116,True,True,Blasco Ibáñez
+" -3.653538626506948, 40.4854519186063 ",True,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-5117,True,True,María Tudor
+" -3.6650747017548797, 40.50543098507407 ",False,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-5118,False,True,Palas de Rey
+" -3.669446787174648, 40.50832462832863 ",True,ml1,https://www.metromadrid.es/es/linea/ml1#estacion-1053,True,True,Las Tablas
+" -3.812116233154177, 40.34523919601582 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1202,True,True,Parque de Lisboa
+" -3.812116233154177, 40.34523919601582 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1203,True,True,Alcorcón Central
+" -3.8493434114365463, 40.345890739787706 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1204,True,True,Parque Oeste
+" -3.872188547431641, 40.33511700914022 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1205,True,True,Universidad Rey Juan Carlos
+" -3.872188547431641, 40.33511700914022 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1206,True,True,Móstoles Central
+" -3.8648944898656326, 40.32167611681609 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1207,True,True,Pradillo
+" -3.8648944898656326, 40.32167611681609 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1208,True,True,Hospital de Móstoles
+" -3.8648944898656326, 40.32167611681609 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1209,True,True,Manuela Malasaña
+" -3.8376919076087863, 40.29680381534007 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1210,True,True,Loranca
+" -3.8164270663524102, 40.28574839354916 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1212,True,True,Hospital de Fuenlabrada
+" -3.8063265863569726, 40.28517056325265 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1213,True,True,Parque Europa
+" -3.7039784766540205, 40.446966678007556 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-106,True,True,Cuatro Caminos
+" -3.7039784766540205, 40.446966678007556 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-620,True,True,Guzmán el Bueno
+" -3.7039784766540205, 40.446966678007556 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-621,False,False,Vicente Aleixandre
+" -3.7267950694327174, 40.44355521068528 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-622,True,True,Ciudad Universitaria
+" -3.7194521744896463, 40.43501556410216 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-311,True,True,Moncloa
+" -3.715975031788373, 40.430658770692084 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-310,True,True,Argüelles
+" -3.715975031788373, 40.430658770692084 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-625,True,True,Príncipe Pío
+" -3.715975031788373, 40.430658770692084 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-626,False,False,Puerta del Ángel
+" -3.7389377724748316, 40.40991964465942 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-627,False,False,Alto de Extremadura
+" -3.7182557200044104, 40.384599358863206 ",True,linea-11,https://www.metromadrid.es/es/linea/linea-11#estacion-605,True,False,Plaza Elíptica
+" -3.72791115890327, 40.38082723882115 ",True,linea-11,https://www.metromadrid.es/es/linea/linea-11#estacion-1102,True,True,Abrantes
+" -3.7341716784290124, 40.37585968805198 ",True,linea-11,https://www.metromadrid.es/es/linea/linea-11#estacion-1103,True,True,Pan Bendito
+" -3.73910622280992, 40.37359399926437 ",True,linea-11,https://www.metromadrid.es/es/linea/linea-11#estacion-1104,True,True,San Francisco
+" -3.7094295067152068, 40.41808648235822 ",True,ramal,https://www.metromadrid.es/es/linea/ramal#estacion-209,True,True,Ópera
+" -3.7094295067152068, 40.41808648235822 ",True,ramal,https://www.metromadrid.es/es/linea/ramal#estacion-625,True,True,Príncipe Pío
+" -3.6410608382789014, 40.4301975485955 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-705,False,False,Ascao
+" -3.642834403605827, 40.43569222122078 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-505,True,True,Pueblo Nuevo
+" -3.642834403605827, 40.43569222122078 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-707,False,False,Barrio de la Concepción
+" -3.6629736837416154, 40.4394433512344 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-708,False,False,Parque de las Avenidas
+" -3.6721577545084036, 40.43933626219724 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-709,False,False,Cartagena
+" -3.6721577545084036, 40.43933626219724 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-411,False,False,Avenida de América
+" -3.6721577545084036, 40.43933626219724 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-711,True,True,Gregorio Marañón
+" -3.699255078803118, 40.43837372987501 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-712,True,True,Alonso Cano
+" -3.6668070437216325, 40.48013291749131 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-153,True,True,Pinar de Chamartín
+" -3.709084232835683, 40.499646860142015 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-952,True,True,Paco de Lucía
+" -3.7989093691460076, 40.282672409397556 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1214,True,True,Fuenlabrada Central
+" -3.7869823082521563, 40.28683532541408 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1215,True,True,Parque de los Estados
+" -3.7568280496874342, 40.28873924742738 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1217,True,True,Arroyo Culebro
+" -3.745771718182202, 40.29324358021325 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1218,True,True,Conservatorio
+" -3.736641503588036, 40.30080675005403 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1219,True,True,Alonso de Mendoza
+" -3.7340338202855166, 40.309922620744835 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1220,True,True,Getafe Central
+" -3.7222501498250757, 40.31179862923095 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1221,True,True,Juan de la Cierva
+" -3.7098585802082673, 40.318623218355846 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1222,True,True,El Casar
+" -3.718203881803276, 40.324220465768875 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1223,True,True,Los Espartales
+" -3.729638476861858, 40.32906791420299 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1224,True,True,El Bercial
+" -3.7453431334630922, 40.40509472797641 ",True,linea-6-circular,https://www.metromadrid.es/es/linea/linea-6-circular#estacion-628,True,True,Lucero
+" -3.751916263742287, 40.37199788960605 ",True,linea-11,https://www.metromadrid.es/es/linea/linea-11#estacion-1105,True,True,Carabanchel Alto
+" -3.756906023990758, 40.364217512605684 ",True,linea-11,https://www.metromadrid.es/es/linea/linea-11#estacion-1106,True,True,La Peseta
+" -3.777833779671177, 40.357952459398284 ",True,linea-11,https://www.metromadrid.es/es/linea/linea-11#estacion-1107,True,True,La Fortuna
+" -3.704337220993404, 40.43840594045452 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-214,True,True,Canal
+" -3.7137413543146804, 40.43905997233827 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-714,True,True,Islas Filipinas
+" -3.7137413543146804, 40.43905997233827 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-620,True,True,Guzmán el Bueno
+" -3.7137413543146804, 40.43905997233827 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-716,True,True,Francos Rodríguez
+" -3.7159837953806902, 40.46482081014714 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-717,True,True,Valdezarza
+" -3.7177043655225064, 40.47021551543151 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-718,True,True,Antonio Machado
+" -3.7177043655225064, 40.47021551543151 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-719,True,True,Peñagrande
+" -3.7177043655225064, 40.47021551543151 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-720,True,True,Avenida de la Ilustración
+" -3.7230534484922786, 40.48501089648855 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-721,True,True,Lacoma
+" -3.6763772762447107, 40.47680705593772 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-152,True,True,Bambú
+" -3.682593278115451, 40.4720227901636 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-151,True,True,Chamartín
+" -3.689182340661554, 40.466893623466774 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-101,True,False,Plaza de Castilla
+" -3.6950664665123973, 40.46441695832889 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-102,False,False,Valdeacederas
+" -3.6950664665123973, 40.46441695832889 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-103,False,False,Tetuán
+" -3.703028749396468, 40.454278749227846 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-104,False,False,Estrecho
+" -3.7033178070796913, 40.45033105413335 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-105,False,False,Alvarado
+" -3.7039784766540205, 40.446966678007556 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-106,True,True,Cuatro Caminos
+" -3.7039784766540205, 40.446966678007556 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-107,False,False,Ríos Rosas
+" -3.698983453377392, 40.43491591143403 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-108,True,True,Iglesia
+" -3.702188295886296, 40.42904963582931 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-109,False,False,Bilbao
+" -3.71635730886455, 40.491088577548204 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-951,True,True,Mirasierra
+" -3.7075223938390494, 40.484656572327964 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-901,False,False,Herrera Oria
+" -3.7031700829535565, 40.47688138899434 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-902,False,False,Barrio del Pilar
+" -3.6958849000624356, 40.46943002884863 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-903,False,False,Ventilla
+" -3.689182340661554, 40.466893623466774 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-101,True,False,Plaza de Castilla
+" -3.6791750808454435, 40.46761952315198 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-905,False,False,Duque de Pastrana
+" -3.6791750808454435, 40.46761952315198 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-906,False,False,Pío XII
+" -3.676832402038624, 40.456336002823406 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-802,True,True,Colombia
+" -3.6773847300795506, 40.451440884039954 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-908,False,False,Concha Espina
+" -3.774618016060599, 40.39697434800015 ",True,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-1016,True,True,Colonia Jardín
+" -3.78399891339169, 40.39708229442025 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5312,False,True,Ciudad de la Imagen
+" -3.7401861342319944, 40.33663165911443 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1225,True,True,El Carrascal
+" -3.7401861342319944, 40.33663165911443 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1226,True,True,Julián Besteiro
+" -3.759428416851752, 40.32659685107382 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1227,True,True,Casa del Reloj
+" -3.767978430492755, 40.321765545104476 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1228,True,True,Hospital Severo Ochoa
+" -3.767978430492755, 40.321765545104476 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1229,True,True,Leganés Central
+" -3.7758763365834476, 40.33615451429297 ",True,linea-12-metrosur,https://www.metromadrid.es/es/linea/linea-12-metrosur#estacion-1230,True,True,San Nicasio
+" -3.7258995067914737, 40.49510106705936 ",True,linea-7,https://www.metromadrid.es/es/linea/linea-7#estacion-723,True,True,Pitis
+" -3.611465758862776, 40.55976240170775 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1061,True,True,Hospital Infanta Sofía
+" -3.715975031788373, 40.430658770692084 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-310,True,True,Argüelles
+" -3.603312655422655, 40.42374301041612 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-255,True,True,Las Rosas
+" -3.711990993449082, 40.341223138866916 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-357,True,True,Villaverde Alto
+" -3.701109289546837, 40.426182305029535 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-110,False,False,Tribunal
+" -3.701109289546837, 40.426182305029535 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-111,False,False,Gran Vía
+" -3.7032639472488222, 40.416871893770455 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-112,True,True,Sol
+" -3.704666474578768, 40.41234081319718 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-113,False,False,Tirso de Molina
+" -3.704666474578768, 40.41234081319718 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-114,False,False,Antón Martín
+" -3.704666474578768, 40.41234081319718 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-115,False,False,Estación del Arte
+" -3.704666474578768, 40.41234081319718 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-116,True,True,Atocha-Renfe
+" -3.704666474578768, 40.41234081319718 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-117,False,False,Menéndez Pelayo
+" -3.704666474578768, 40.41234081319718 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-118,True,True,Pacífico
+" -3.6690617034429036, 40.3981918732199 ",False,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-119,False,False,Puente de Vallecas
+" -3.678220651650197, 40.44426481662303 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-909,False,False,Cruz del Rayo
+" -3.678220651650197, 40.44426481662303 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-411,False,False,Avenida de América
+" -3.678220651650197, 40.44426481662303 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-510,False,False,Núñez de Balboa
+" -3.6801282562882505, 40.42293825869698 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-204,False,False,Príncipe de Vergara
+" -3.6785854582722304, 40.41838874804179 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-913,False,False,Ibiza
+" -3.669523455578141, 40.41506318581949 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-612,True,True,Sainz de Baranda
+" -3.6617915330011224, 40.41146804102253 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-915,False,False,Estrella
+" -3.6527397668456545, 40.41024020995498 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-916,False,False,Vinateros
+" -3.6418137462853575, 40.40522025828109 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-917,False,False,Artilleros
+" -3.6351227460093765, 40.40050941790844 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-918,False,False,Pavones
+" -3.6215666770605437, 40.40004253874335 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-919,True,True,Valdebernardo
+" -3.78399891339169, 40.39708229442025 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5313,False,True,José Isbert
+" -3.7955757686710463, 40.39454375022683 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5314,False,True,Ciudad del Cine
+" -3.803863391333755, 40.39687382679988 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5315,False,True,Cocheras
+" -3.8167531164343904, 40.39871142954957 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5316,False,True,Retamares
+" -3.8167531164343904, 40.39871142954957 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5318,True,True,Montepríncipe
+" -3.8381200141598604, 40.39419815503486 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5319,False,True,Ventorro del Cano
+" -3.8477451022295583, 40.39501087255144 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5320,False,True,Prado del Espino
+" -3.8643981079696768, 40.39528397548309 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5322,False,True,Cantabria
+" -3.8793905680938137, 40.40195470715404 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5324,False,True,Ferial de Boadilla
+" -3.880047183721374, 40.4071298858456 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5325,False,True,Boadilla Centro
+" -3.587529851420831, 40.457788368783184 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-552,True,True,Alameda de Osuna
+" -3.6234033337323037, 40.550374439557125 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1060,True,True,Reyes Católicos
+" -3.635133826137124, 40.55441858507977 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1059,True,True,Baunatal
+" -3.646883386851369, 40.55047958861559 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1058,True,True,Manuel de Falla
+" -3.646883386851369, 40.55047958861559 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1057,True,True,Marqués de la Valdavia
+" -3.635571004361775, 40.53194806540319 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1056,True,True,La Moraleja
+" -3.658599532025724, 40.527593933186594 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1055,True,True,La Granja
+" -3.658599532025724, 40.527593933186594 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1054,True,True,Ronda de la Comunicación
+" -3.669446787174648, 40.50832462832863 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1053,True,True,Las Tablas
+" -3.6957592776154744, 40.50525031559373 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1052,True,True,Montecarmelo
+" -3.6952099494181434, 40.50119961127806 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1051,True,True,Tres Olivos
+" -3.6928338396454277, 40.49507880631472 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1001,False,False,Fuencarral
+" -3.7055818156463136, 40.43001095773282 ",False,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-212,False,False,San Bernardo
+" -3.702188295886296, 40.42904963582931 ",False,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-109,False,False,Bilbao
+" -3.702188295886296, 40.42904963582931 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-404,False,False,Alonso Martínez
+" -3.702188295886296, 40.42904963582931 ",False,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-405,False,False,Colón
+" -3.686637031792093, 40.42543132477729 ",False,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-406,False,False,Serrano
+" -3.686637031792093, 40.42543132477729 ",False,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-407,False,False,Velázquez
+" -3.6759123759569388, 40.42453956509611 ",False,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-203,True,True,Goya
+" -3.6754163728813944, 40.429164099118886 ",False,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-409,False,False,Lista
+" -3.6754163728813944, 40.429164099118886 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-410,False,False,Diego de León
+" -3.6754163728813944, 40.429164099118886 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-411,False,False,Avenida de América
+" -3.612070828457266, 40.422390661721714 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-254,True,True,Avenida de Guadalajara
+" -3.6235144027647195, 40.418284443909386 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-253,True,True,Alsacia
+" -3.6391475841604057, 40.42361352022292 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-252,True,True,La Almudena
+" -3.650528497343345, 40.4266131180015 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-251,True,True,La Elipa
+" -3.663667689792175, 40.43088079412545 ",False,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-201,False,False,Ventas
+" -3.6692617275650825, 40.42790259126464 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-202,False,False,Manuel Becerra
+" -3.6759123759569388, 40.42453956509611 ",False,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-203,True,True,Goya
+" -3.6801282562882505, 40.42293825869698 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-204,False,False,Príncipe de Vergara
+" -3.6862547889045016, 40.420298442434046 ",False,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-205,False,False,Retiro
+" -3.6862547889045016, 40.420298442434046 ",False,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-206,False,False,Banco de España
+" -3.699256777934109, 40.41804935637811 ",False,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-207,False,False,Sevilla
+" -3.7032639472488222, 40.416871893770455 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-112,True,True,Sol
+" -3.711990993449082, 40.341223138866916 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-356,True,True,San Cristóbal
+" -3.711990993449082, 40.341223138866916 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-355,True,True,Villaverde Bajo-Cruce
+" -3.711990993449082, 40.341223138866916 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-354,True,True,Ciudad de los Ángeles
+" -3.711990993449082, 40.341223138866916 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-353,True,True,San Fermín-Orcasur
+" -3.695855104968134, 40.37502451461551 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-352,True,True,Hospital 12 de Octubre
+" -3.697892329475578, 40.38409341257691 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-351,True,True,Almendrales
+" -3.695125551387507, 40.391146176794116 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-301,True,True,Legazpi
+" -3.6942021511558596, 40.39989953900073 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-302,True,True,Delicias
+" -3.6942347260526547, 40.40307053569799 ",False,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-303,True,True,Palos de la Frontera
+" -3.702681992509139, 40.40511861972591 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-304,True,True,Embajadores
+" -3.702681992509139, 40.40511861972591 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-305,True,True,Lavapiés
+" -3.6641453517860403, 40.395535508762855 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-120,False,False,Nueva Numancia
+" -3.658685211486692, 40.392656804760804 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-121,False,False,Portazgo
+" -3.6539143400014304, 40.39155774604133 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-122,False,False,Buenos Aires
+" -3.6452252835565764, 40.389768700352434 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-123,True,True,Alto del Arenal
+" -3.6452252835565764, 40.389768700352434 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-124,True,True,Miguel Hernández
+" -3.624724516699161, 40.38216046446645 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-125,True,True,Sierra de Guadalupe
+" -3.621308015889596, 40.37959325302986 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-126,True,True,Villa de Vallecas
+" -3.618850584099445, 40.37238110745017 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-127,True,True,Congosto
+" -3.6134711039363103, 40.37018451188382 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-128,True,True,La Gavia
+" -3.5995338882203147, 40.36322145811309 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-129,True,True,Las Suertes
+" -3.593169836651139, 40.36006503137792 ",True,linea-1,https://www.metromadrid.es/es/linea/linea-1#estacion-130,True,True,Valdecarros
+" -3.6215666770605437, 40.40004253874335 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-920,True,True,Vicálvaro
+" -3.6024040049730175, 40.40381066236725 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-921,True,True,San Cipriano
+" -3.595982858510145, 40.40131238195054 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-922,True,True,Puerta de Arganda
+" -3.547281479092949, 40.36676887211379 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-924,True,True,Rivas Urbanizaciones
+" -3.524799759036857, 40.341341035027426 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-925,True,True,Rivas Futura
+" -3.5206027411300975, 40.32836870738169 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-926,True,True,Rivas Vaciamadrid
+" -3.4774526353611823, 40.31901406572024 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-927,True,True,La Poveda
+" -3.447526065715983, 40.30366479038508 ",True,linea-9,https://www.metromadrid.es/es/linea/linea-9#estacion-928,True,True,Arganda del Rey
+" -3.8857669856641905, 40.405635759413904 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5326,False,True,Nuevo Mundo
+" -3.892642616855901, 40.40512342196911 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5327,False,True,Siglo XXI
+" -3.892642616855901, 40.40512342196911 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5328,False,True,Infante Don Luís
+" -3.903791073855019, 40.40776653612062 ",False,ml3,https://www.metromadrid.es/es/linea/ml3#estacion-5329,False,True,Puerta de Boadilla
+" -3.5940139675362324, 40.45346693887937 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-551,True,True,El Capricho
+" -3.608164956973511, 40.44942037767125 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-501,False,False,Canillejas
+" -3.6170047299183143, 40.44374289429119 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-502,False,False,Torre Arias
+" -3.6268474470761722, 40.44084308870699 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-503,False,False,Suanzes
+" -3.638164089763644, 40.43804242659882 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-504,False,False,Ciudad Lineal
+" -3.642834403605827, 40.43569222122078 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-505,True,True,Pueblo Nuevo
+" -3.647365166136872, 40.43357684329915 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-506,False,False,Quintana
+" -3.657582365367643, 40.431888543471025 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-507,False,False,El Carmen
+" -3.663667689792175, 40.43088079412545 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-201,False,False,Ventas
+" -3.663667689792175, 40.43088079412545 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-410,False,False,Diego de León
+" -3.663667689792175, 40.43088079412545 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-510,False,False,Núñez de Balboa
+" -3.6928338396454277, 40.49507880631472 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1002,False,False,Begoña
+" -3.682593278115451, 40.4720227901636 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-151,True,True,Chamartín
+" -3.689182340661554, 40.466893623466774 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-101,True,False,Plaza de Castilla
+" -3.689862379719021, 40.458421129185616 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1005,False,False,Cuzco
+" -3.689862379719021, 40.458421129185616 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1006,False,False,Santiago Bernabéu
+" -3.6924180862691784, 40.446577042902604 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-618,True,True,Nuevos Ministerios
+" -3.6924180862691784, 40.446577042902604 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-711,True,True,Gregorio Marañón
+" -3.6924180862691784, 40.446577042902604 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-404,False,False,Alonso Martínez
+" -3.701109289546837, 40.426182305029535 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-110,False,False,Tribunal
+" -3.701109289546837, 40.426182305029535 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-308,True,True,Plaza de España
+" -3.6748238288203408, 40.444185596768286 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-412,False,False,Prosperidad
+" -3.6679186527610956, 40.44824371776939 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-413,False,False,Alfonso XIII
+" -3.6611898359519834, 40.4535346495725 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-414,False,False,Avenida de La Paz
+" -3.6561881225682944, 40.45582440947207 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-415,False,False,Arturo Soria
+" -3.645820621327798, 40.45944135187602 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-416,False,False,Esperanza
+" -3.635600579737649, 40.46380429988092 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-417,True,True,Canillas
+" -3.6383312545367454, 40.46941986762225 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-418,True,True,Mar de Cristal
+" -3.6395823502616023, 40.47446698722932 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-419,True,True,San Lorenzo
+" -3.6395823502616023, 40.47446698722932 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-420,True,True,Parque de Santa María
+" -3.6525796374794783, 40.47536730266078 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-421,True,True,Hortaleza
+" -3.662905158694452, 40.476867092844046 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-422,True,True,Manoteras
+" -3.7094295067152068, 40.41808648235822 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-209,True,True,Ópera
+" -3.70796634277563, 40.421311677323516 ",False,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-210,False,False,Santo Domingo
+" -3.7074256795634843, 40.42483751820921 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-211,False,False,Noviciado
+" -3.7055818156463136, 40.43001095773282 ",False,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-212,False,False,San Bernardo
+" -3.7043420216216063, 40.43321671973448 ",False,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-213,False,False,Quevedo
+" -3.704337220993404, 40.43840594045452 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-214,True,True,Canal
+" -3.7039784766540205, 40.446966678007556 ",True,linea-2,https://www.metromadrid.es/es/linea/linea-2#estacion-106,True,True,Cuatro Caminos
+" -3.7032639472488222, 40.416871893770455 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-112,True,True,Sol
+" -3.7056671453961694, 40.420127531994346 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-307,True,True,Callao
+" -3.7056671453961694, 40.420127531994346 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-308,True,True,Plaza de España
+" -3.7056671453961694, 40.420127531994346 ",False,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-309,True,True,Ventura Rodríguez
+" -3.715975031788373, 40.430658770692084 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-310,True,True,Argüelles
+" -3.7194521744896463, 40.43501556410216 ",True,linea-3,https://www.metromadrid.es/es/linea/linea-3#estacion-311,True,True,Moncloa
+" -3.663667689792175, 40.43088079412545 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-511,False,False,Rubén Darío
+" -3.663667689792175, 40.43088079412545 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-404,False,False,Alonso Martínez
+" -3.69762156530907, 40.422924115641855 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-513,False,False,Chueca
+" -3.69762156530907, 40.422924115641855 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-111,False,False,Gran Vía
+" -3.7056671453961694, 40.420127531994346 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-307,True,True,Callao
+" -3.7094295067152068, 40.41808648235822 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-209,True,True,Ópera
+" -3.7081675783047383, 40.4112743722751 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-517,False,False,La Latina
+" -3.711057633812725, 40.40703138929742 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-518,False,False,Puerta de Toledo
+" -3.7066522311398944, 40.40386919094474 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-519,False,False,Acacias
+" -3.7066522311398944, 40.40386919094474 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-520,True,True,Pirámides
+" -3.701109289546837, 40.426182305029535 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-625,True,True,Príncipe Pío
+" -3.7356377170839976, 40.41640917765352 ",False,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1013,True,True,Lago
+" -3.7356377170839976, 40.41640917765352 ",False,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1014,True,True,Batán
+" -3.7610192808902423, 40.40319981212787 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-530,True,True,Casa de Campo
+" -3.774618016060599, 40.39697434800015 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1016,True,True,Colonia Jardín
+" -3.774618016060599, 40.39697434800015 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1018,True,True,Aviación Española
+" -3.791525479765706, 40.377697576926536 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1019,True,True,Cuatro Vientos
+" -3.791525479765706, 40.377697576926536 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1020,True,True,Joaquín Vilumbrales
+" -3.812116233154177, 40.34523919601582 ",True,linea-10,https://www.metromadrid.es/es/linea/linea-10#estacion-1021,True,True,Puerta del Sur
+" -3.6668070437216325, 40.48013291749131 ",True,linea-4,https://www.metromadrid.es/es/linea/linea-4#estacion-153,True,True,Pinar de Chamartín
+" -3.7066522311398944, 40.40386919094474 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-521,False,False,Marqués de Vadillo
+" -3.723615630429613, 40.39334979453965 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-522,False,False,Urgel
+" -3.731327675889255, 40.38846340308106 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-523,False,False,Oporto
+" -3.7398266451178808, 40.388841774504186 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-524,False,False,Vista Alegre
+" -3.751916263742287, 40.37199788960605 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-525,False,False,Carabanchel
+" -3.7512174724118132, 40.384380915779076 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-526,True,True,Eugenia de Montijo
+" -3.760809652950178, 40.38562451896221 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-527,True,True,Aluche
+" -3.7653543590645233, 40.39056753293377 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-528,False,True,Empalme
+" -3.7681359752950083, 40.39480136388358 ",False,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-529,False,False,Campamento
+" -3.7610192808902423, 40.40319981212787 ",True,linea-5,https://www.metromadrid.es/es/linea/linea-5#estacion-530,True,True,Casa de Campo

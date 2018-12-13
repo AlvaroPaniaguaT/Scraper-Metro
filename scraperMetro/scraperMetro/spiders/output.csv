@@ -1,0 +1,328 @@
+accesible,elevator,line,mechanic_stairs,coordinates,station
+True,True,linea-8,True," -3.6924180862691784, 40.446577042902604 ",Nuevos Ministerios
+True,True,linea-8,True," -3.676832402038624, 40.456336002823406 ",Colombia
+True,True,linea-8,True," -3.6486745747509053, 40.467992917343715 ",Pinar del Rey
+True,True,linea-8,True," -3.6383312545367454, 40.46941986762225 ",Mar de Cristal
+True,True,linea-8,True," -3.6383312545367454, 40.46941986762225 ",Feria de Madrid
+True,True,linea-8,True," -3.6383312545367454, 40.46941986762225 ",Aeropuerto T1-T2-T3
+True,True,linea-8,True," -3.582531126058038, 40.475768604419436 ",Barajas
+True,True,linea-8,True," -3.582531126058038, 40.475768604419436 ",Aeropuerto T-4
+True,True,linea-9,True," -3.709084232835683, 40.499646860142015 ",Paco de Lucía
+True,True,linea-9,True," -3.71635730886455, 40.491088577548204 ",Mirasierra
+False,False,linea-9,True," -3.7075223938390494, 40.484656572327964 ",Herrera Oria
+False,False,linea-9,True," -3.7031700829535565, 40.47688138899434 ",Barrio del Pilar
+False,False,linea-9,True," -3.6958849000624356, 40.46943002884863 ",Ventilla
+False,True,linea-9,True," -3.689182340661554, 40.466893623466774 ",Plaza de Castilla
+False,False,linea-9,True," -3.6791750808454435, 40.46761952315198 ",Duque de Pastrana
+False,False,linea-9,True," -3.6791750808454435, 40.46761952315198 ",Pío XII
+True,True,linea-9,True," -3.676832402038624, 40.456336002823406 ",Colombia
+False,False,linea-9,True," -3.6773847300795506, 40.451440884039954 ",Concha Espina
+False,False,linea-9,True," -3.678220651650197, 40.44426481662303 ",Cruz del Rayo
+False,False,linea-9,True," -3.678220651650197, 40.44426481662303 ",Avenida de América
+False,False,linea-9,True," -3.678220651650197, 40.44426481662303 ",Núñez de Balboa
+False,False,linea-9,True," -3.6801282562882505, 40.42293825869698 ",Príncipe de Vergara
+False,False,linea-9,True," -3.6785854582722304, 40.41838874804179 ",Ibiza
+True,True,linea-10,True," -3.611465758862776, 40.55976240170775 ",Hospital Infanta Sofía
+True,True,linea-7,True," -3.5345387003640565, 40.41760391086565 ",Hospital del Henares
+True,True,linea-9,True," -3.669523455578141, 40.41506318581949 ",Sainz de Baranda
+False,False,linea-9,True," -3.6617915330011224, 40.41146804102253 ",Estrella
+False,False,linea-9,True," -3.6527397668456545, 40.41024020995498 ",Vinateros
+False,False,linea-9,True," -3.6418137462853575, 40.40522025828109 ",Artilleros
+False,False,linea-9,True," -3.6351227460093765, 40.40050941790844 ",Pavones
+True,True,linea-9,True," -3.6215666770605437, 40.40004253874335 ",Valdebernardo
+True,True,linea-9,True," -3.6215666770605437, 40.40004253874335 ",Vicálvaro
+True,True,linea-9,True," -3.6024040049730175, 40.40381066236725 ",San Cipriano
+True,True,linea-9,True," -3.595982858510145, 40.40131238195054 ",Puerta de Arganda
+True,True,linea-9,True," -3.547281479092949, 40.36676887211379 ",Rivas Urbanizaciones
+True,True,linea-9,True," -3.524799759036857, 40.341341035027426 ",Rivas Futura
+True,True,linea-9,True," -3.5206027411300975, 40.32836870738169 ",Rivas Vaciamadrid
+True,True,linea-9,True," -3.4774526353611823, 40.31901406572024 ",La Poveda
+True,True,linea-9,True," -3.447526065715983, 40.30366479038508 ",Arganda del Rey
+True,True,linea-10,True," -3.6234033337323037, 40.550374439557125 ",Reyes Católicos
+True,True,linea-10,True," -3.635133826137124, 40.55441858507977 ",Baunatal
+True,True,linea-10,True," -3.646883386851369, 40.55047958861559 ",Manuel de Falla
+True,True,linea-10,True," -3.646883386851369, 40.55047958861559 ",Marqués de la Valdavia
+True,True,linea-10,True," -3.635571004361775, 40.53194806540319 ",La Moraleja
+True,True,linea-10,True," -3.658599532025724, 40.527593933186594 ",La Granja
+True,True,linea-10,True," -3.658599532025724, 40.527593933186594 ",Ronda de la Comunicación
+True,True,linea-10,True," -3.669446787174648, 40.50832462832863 ",Las Tablas
+True,True,linea-10,True," -3.6957592776154744, 40.50525031559373 ",Montecarmelo
+True,True,linea-10,True," -3.6952099494181434, 40.50119961127806 ",Tres Olivos
+False,False,linea-10,True," -3.6928338396454277, 40.49507880631472 ",Fuencarral
+False,False,linea-10,True," -3.6928338396454277, 40.49507880631472 ",Begoña
+True,True,linea-10,True," -3.682593278115451, 40.4720227901636 ",Chamartín
+False,True,linea-10,True," -3.689182340661554, 40.466893623466774 ",Plaza de Castilla
+False,False,linea-10,True," -3.689862379719021, 40.458421129185616 ",Cuzco
+False,False,linea-10,True," -3.689862379719021, 40.458421129185616 ",Santiago Bernabéu
+True,True,linea-1,True," -3.6668070437216325, 40.48013291749131 ",Pinar de Chamartín
+True,True,linea-7,True," -3.5271847560338285, 40.41776380376927 ",Henares
+True,True,linea-7,True," -3.525504191899041, 40.422951678568836 ",Jarama
+True,True,linea-7,True," -3.535417765096221, 40.42441070943472 ",San Fernando
+True,True,linea-7,True," -3.5479311641242512, 40.42514488006425 ",La Rambla
+True,True,linea-7,True," -3.561193228398721, 40.423729905298636 ",Coslada Central
+True,True,linea-7,True," -3.569198792073217, 40.42249256252064 ",Barrio del Puerto
+True,True,linea-7,True," -3.569198792073217, 40.42249256252064 ",Estadio Metropolitano
+False,False,linea-7,True," -3.6078871300557416, 40.43298035455762 ",Las Musas
+False,False,linea-7,True," -3.6154696062824123, 40.427985259797985 ",San Blas
+False,False,linea-7,True," -3.625725983210804, 40.42798425779678 ",Simancas
+False,False,linea-7,True," -3.625725983210804, 40.42798425779678 ",García Noblejas
+False,False,linea-7,True," -3.6410608382789014, 40.4301975485955 ",Ascao
+True,True,linea-7,True," -3.642834403605827, 40.43569222122078 ",Pueblo Nuevo
+False,False,linea-7,True," -3.642834403605827, 40.43569222122078 ",Barrio de la Concepción
+False,True,linea-11,True," -3.7182557200044104, 40.384599358863206 ",Plaza Elíptica
+True,True,linea-11,True," -3.72791115890327, 40.38082723882115 ",Abrantes
+True,True,linea-11,True," -3.7341716784290124, 40.37585968805198 ",Pan Bendito
+True,True,linea-11,True," -3.73910622280992, 40.37359399926437 ",San Francisco
+True,True,linea-11,True," -3.751916263742287, 40.37199788960605 ",Carabanchel Alto
+True,True,linea-11,True," -3.756906023990758, 40.364217512605684 ",La Peseta
+True,True,linea-11,True," -3.777833779671177, 40.357952459398284 ",La Fortuna
+True,True,ml2,True," -3.774618016060599, 40.39697434800015 ",Colonia Jardín
+True,False,ml2,False," -3.7812192922444003, 40.402290316776224 ",Prado de la Vega
+True,False,ml2,False," -3.7812192922444003, 40.402290316776224 ",Colonia de los Ángeles
+True,False,ml2,False," -3.7874895769878942, 40.41046401739344 ",Prado del Rey
+True,True,ml2,True," -3.7925323903258628, 40.41535749377666 ",Somosaguas Sur
+True,False,ml2,False," -3.798744151603397, 40.41935979143648 ",Somosaguas Centro
+True,True,ml3,True," -3.774618016060599, 40.39697434800015 ",Colonia Jardín
+True,False,ml3,False," -3.78399891339169, 40.39708229442025 ",Ciudad de la Imagen
+True,False,ml3,False," -3.78399891339169, 40.39708229442025 ",José Isbert
+True,True,linea-10,True," -3.6924180862691784, 40.446577042902604 ",Nuevos Ministerios
+True,True,linea-10,True," -3.6924180862691784, 40.446577042902604 ",Gregorio Marañón
+False,False,linea-10,True," -3.6924180862691784, 40.446577042902604 ",Alonso Martínez
+False,False,linea-10,True," -3.701109289546837, 40.426182305029535 ",Tribunal
+True,True,linea-10,True," -3.701109289546837, 40.426182305029535 ",Plaza de España
+True,True,linea-10,True," -3.701109289546837, 40.426182305029535 ",Príncipe Pío
+True,True,linea-10,False," -3.7356377170839976, 40.41640917765352 ",Lago
+True,True,linea-10,False," -3.7356377170839976, 40.41640917765352 ",Batán
+True,True,linea-10,True," -3.7610192808902423, 40.40319981212787 ",Casa de Campo
+True,True,linea-10,True," -3.774618016060599, 40.39697434800015 ",Colonia Jardín
+True,True,linea-10,True," -3.774618016060599, 40.39697434800015 ",Aviación Española
+True,True,linea-10,True," -3.791525479765706, 40.377697576926536 ",Cuatro Vientos
+True,True,linea-10,True," -3.791525479765706, 40.377697576926536 ",Joaquín Vilumbrales
+True,True,linea-10,True," -3.812116233154177, 40.34523919601582 ",Puerta del Sur
+True,True,linea-1,True," -3.6763772762447107, 40.47680705593772 ",Bambú
+True,True,linea-1,True," -3.682593278115451, 40.4720227901636 ",Chamartín
+False,True,linea-1,True," -3.689182340661554, 40.466893623466774 ",Plaza de Castilla
+False,False,linea-1,False," -3.6950664665123973, 40.46441695832889 ",Valdeacederas
+False,False,linea-1,False," -3.6950664665123973, 40.46441695832889 ",Tetuán
+False,False,linea-1,False," -3.703028749396468, 40.454278749227846 ",Estrecho
+False,False,linea-1,False," -3.7033178070796913, 40.45033105413335 ",Alvarado
+True,True,linea-1,True," -3.7039784766540205, 40.446966678007556 ",Cuatro Caminos
+False,False,linea-1,False," -3.7039784766540205, 40.446966678007556 ",Ríos Rosas
+True,True,linea-1,False," -3.698983453377392, 40.43491591143403 ",Iglesia
+False,False,linea-1,False," -3.702188295886296, 40.42904963582931 ",Bilbao
+False,False,linea-1,True," -3.701109289546837, 40.426182305029535 ",Tribunal
+False,False,linea-1,True," -3.701109289546837, 40.426182305029535 ",Gran Vía
+True,True,linea-1,True," -3.7032639472488222, 40.416871893770455 ",Sol
+False,False,linea-1,False," -3.704666474578768, 40.41234081319718 ",Tirso de Molina
+False,False,linea-1,False," -3.704666474578768, 40.41234081319718 ",Antón Martín
+False,False,linea-1,False," -3.704666474578768, 40.41234081319718 ",Estación del Arte
+True,True,ml1,True," -3.6668070437216325, 40.48013291749131 ",Pinar de Chamartín
+True,True,ml1,True," -3.663254681489714, 40.48481098673565 ",Fuente de la Mora
+True,True,ml1,True," -3.66099048556045, 40.48733745493073 ",Virgen del Cortijo
+True,False,ml1,False," -3.653538626506948, 40.4854519186063 ",Antonio Saura
+True,False,ml1,False," -3.653538626506948, 40.4854519186063 ",Álvarez de Villaamil
+False,False,linea-7,True," -3.6629736837416154, 40.4394433512344 ",Parque de las Avenidas
+False,False,linea-7,True," -3.6721577545084036, 40.43933626219724 ",Cartagena
+False,False,linea-7,True," -3.6721577545084036, 40.43933626219724 ",Avenida de América
+True,True,linea-7,True," -3.6721577545084036, 40.43933626219724 ",Gregorio Marañón
+True,True,linea-7,True," -3.699255078803118, 40.43837372987501 ",Alonso Cano
+True,True,linea-7,True," -3.704337220993404, 40.43840594045452 ",Canal
+True,True,linea-7,True," -3.7137413543146804, 40.43905997233827 ",Islas Filipinas
+True,True,linea-7,True," -3.7137413543146804, 40.43905997233827 ",Guzmán el Bueno
+True,True,linea-7,True," -3.7137413543146804, 40.43905997233827 ",Francos Rodríguez
+True,True,linea-7,True," -3.7159837953806902, 40.46482081014714 ",Valdezarza
+True,True,linea-7,True," -3.7177043655225064, 40.47021551543151 ",Antonio Machado
+True,True,linea-7,True," -3.7177043655225064, 40.47021551543151 ",Peñagrande
+True,True,linea-7,True," -3.7177043655225064, 40.47021551543151 ",Avenida de la Ilustración
+True,True,linea-7,True," -3.7230534484922786, 40.48501089648855 ",Lacoma
+True,True,linea-7,True," -3.7258995067914737, 40.49510106705936 ",Pitis
+True,False,ml2,False," -3.80448162240161, 40.423067755001526 ",Pozuelo Oeste
+True,False,ml2,False," -3.80448162240161, 40.423067755001526 ",Bélgica
+True,False,ml2,False," -3.8016233717957095, 40.43252903351356 ",Dos Castillas
+True,False,ml2,False," -3.7952551244314376, 40.433374816567124 ",Campus de Somosaguas
+True,True,ml2,True," -3.793061094805115, 40.439299781486184 ",Avenida de Europa
+True,False,ml2,False," -3.6903820686972306, 40.4515802047538 ",Berna
+True,False,ml2,False," -3.6903820686972306, 40.4515802047538 ",Estación de Aravaca
+True,False,ml3,False," -3.7955757686710463, 40.39454375022683 ",Ciudad del Cine
+True,False,ml3,False," -3.803863391333755, 40.39687382679988 ",Cocheras
+True,False,ml3,False," -3.8167531164343904, 40.39871142954957 ",Retamares
+True,True,ml3,False," -3.8167531164343904, 40.39871142954957 ",Montepríncipe
+True,False,ml3,False," -3.8381200141598604, 40.39419815503486 ",Ventorro del Cano
+True,False,ml3,False," -3.8477451022295583, 40.39501087255144 ",Prado del Espino
+True,False,ml3,False," -3.8643981079696768, 40.39528397548309 ",Cantabria
+True,False,ml3,False," -3.8793905680938137, 40.40195470715404 ",Ferial de Boadilla
+True,False,ml3,False," -3.880047183721374, 40.4071298858456 ",Boadilla Centro
+True,False,ml3,False," -3.8857669856641905, 40.405635759413904 ",Nuevo Mundo
+True,False,ml3,False," -3.892642616855901, 40.40512342196911 ",Siglo XXI
+True,False,ml3,False," -3.892642616855901, 40.40512342196911 ",Infante Don Luís
+True,False,ml3,False," -3.903791073855019, 40.40776653612062 ",Puerta de Boadilla
+True,True,linea-12-metrosur,True," -3.812116233154177, 40.34523919601582 ",Puerta del Sur
+True,True,linea-1,True," -3.704666474578768, 40.41234081319718 ",Atocha-Renfe
+False,False,linea-1,False," -3.704666474578768, 40.41234081319718 ",Menéndez Pelayo
+True,True,linea-1,True," -3.704666474578768, 40.41234081319718 ",Pacífico
+False,False,linea-1,False," -3.6690617034429036, 40.3981918732199 ",Puente de Vallecas
+False,False,linea-1,True," -3.6641453517860403, 40.395535508762855 ",Nueva Numancia
+False,False,linea-1,True," -3.658685211486692, 40.392656804760804 ",Portazgo
+False,False,linea-1,True," -3.6539143400014304, 40.39155774604133 ",Buenos Aires
+True,True,linea-1,True," -3.6452252835565764, 40.389768700352434 ",Alto del Arenal
+True,True,linea-1,True," -3.6452252835565764, 40.389768700352434 ",Miguel Hernández
+True,True,linea-1,True," -3.624724516699161, 40.38216046446645 ",Sierra de Guadalupe
+True,True,linea-1,True," -3.621308015889596, 40.37959325302986 ",Villa de Vallecas
+True,True,linea-1,True," -3.618850584099445, 40.37238110745017 ",Congosto
+True,True,linea-1,True," -3.6134711039363103, 40.37018451188382 ",La Gavia
+True,True,linea-1,True," -3.5995338882203147, 40.36322145811309 ",Las Suertes
+True,True,linea-1,True," -3.593169836651139, 40.36006503137792 ",Valdecarros
+True,True,ml1,True," -3.653538626506948, 40.4854519186063 ",Blasco Ibáñez
+True,True,ml1,True," -3.653538626506948, 40.4854519186063 ",María Tudor
+True,False,ml1,False," -3.6650747017548797, 40.50543098507407 ",Palas de Rey
+True,True,ml1,True," -3.669446787174648, 40.50832462832863 ",Las Tablas
+True,True,linea-3,True," -3.711990993449082, 40.341223138866916 ",Villaverde Alto
+True,True,linea-6-circular,True," -3.744300361169432, 40.39922754347372 ",Laguna
+True,True,linea-2,True," -3.603312655422655, 40.42374301041612 ",Las Rosas
+True,True,linea-4,True," -3.715975031788373, 40.430658770692084 ",Argüelles
+True,True,linea-12-metrosur,True," -3.812116233154177, 40.34523919601582 ",Parque de Lisboa
+True,True,linea-12-metrosur,True," -3.812116233154177, 40.34523919601582 ",Alcorcón Central
+True,True,linea-12-metrosur,True," -3.8493434114365463, 40.345890739787706 ",Parque Oeste
+True,True,linea-12-metrosur,True," -3.872188547431641, 40.33511700914022 ",Universidad Rey Juan Carlos
+True,True,linea-12-metrosur,True," -3.872188547431641, 40.33511700914022 ",Móstoles Central
+True,True,linea-12-metrosur,True," -3.8648944898656326, 40.32167611681609 ",Pradillo
+True,True,linea-12-metrosur,True," -3.8648944898656326, 40.32167611681609 ",Hospital de Móstoles
+True,True,linea-12-metrosur,True," -3.8648944898656326, 40.32167611681609 ",Manuela Malasaña
+True,True,linea-12-metrosur,True," -3.8376919076087863, 40.29680381534007 ",Loranca
+True,True,linea-12-metrosur,True," -3.8164270663524102, 40.28574839354916 ",Hospital de Fuenlabrada
+True,True,linea-12-metrosur,True," -3.8063265863569726, 40.28517056325265 ",Parque Europa
+True,True,linea-12-metrosur,True," -3.7989093691460076, 40.282672409397556 ",Fuenlabrada Central
+True,True,linea-12-metrosur,True," -3.7869823082521563, 40.28683532541408 ",Parque de los Estados
+True,True,linea-12-metrosur,True," -3.7568280496874342, 40.28873924742738 ",Arroyo Culebro
+True,True,linea-12-metrosur,True," -3.745771718182202, 40.29324358021325 ",Conservatorio
+True,True,linea-12-metrosur,True," -3.736641503588036, 40.30080675005403 ",Alonso de Mendoza
+True,True,linea-3,True," -3.711990993449082, 40.341223138866916 ",San Cristóbal
+True,True,linea-3,True," -3.711990993449082, 40.341223138866916 ",Villaverde Bajo-Cruce
+True,True,linea-3,True," -3.711990993449082, 40.341223138866916 ",Ciudad de los Ángeles
+True,True,linea-3,True," -3.711990993449082, 40.341223138866916 ",San Fermín-Orcasur
+True,True,linea-3,True," -3.695855104968134, 40.37502451461551 ",Hospital 12 de Octubre
+True,True,linea-3,True," -3.697892329475578, 40.38409341257691 ",Almendrales
+True,True,linea-3,True," -3.695125551387507, 40.391146176794116 ",Legazpi
+True,True,linea-3,True," -3.6942021511558596, 40.39989953900073 ",Delicias
+True,True,linea-3,False," -3.6942347260526547, 40.40307053569799 ",Palos de la Frontera
+True,True,linea-3,True," -3.702681992509139, 40.40511861972591 ",Embajadores
+True,True,linea-3,True," -3.702681992509139, 40.40511861972591 ",Lavapiés
+True,True,linea-3,True," -3.7032639472488222, 40.416871893770455 ",Sol
+True,True,linea-3,True," -3.7056671453961694, 40.420127531994346 ",Callao
+True,True,linea-3,True," -3.7056671453961694, 40.420127531994346 ",Plaza de España
+True,True,linea-6-circular,True," -3.74100000338481, 40.392699152623656 ",Carpetana
+False,False,linea-6-circular,True," -3.731327675889255, 40.38846340308106 ",Oporto
+False,False,linea-6-circular,True," -3.731327675889255, 40.38846340308106 ",Opañel
+False,True,linea-6-circular,True," -3.7182557200044104, 40.384599358863206 ",Plaza Elíptica
+True,True,linea-6-circular,True," -3.7069010072851825, 40.38709277398245 ",Usera
+True,True,linea-6-circular,True," -3.695125551387507, 40.391146176794116 ",Legazpi
+True,True,linea-6-circular,True," -3.6886414650639274, 40.39309490002911 ",Arganzuela-Planetario
+False,False,linea-6-circular,True," -3.6886414650639274, 40.39309490002911 ",Méndez Álvaro
+True,True,linea-6-circular,True," -3.6886414650639274, 40.39309490002911 ",Pacífico
+True,True,linea-6-circular,True," -3.670409622513099, 40.40696791355658 ",Conde de Casal
+True,True,linea-6-circular,True," -3.669523455578141, 40.41506318581949 ",Sainz de Baranda
+False,False,linea-6-circular,True," -3.669523455578141, 40.41506318581949 ",O´Donnell
+False,False,linea-6-circular,True," -3.6692617275650825, 40.42790259126464 ",Manuel Becerra
+False,False,linea-6-circular,True," -3.6692617275650825, 40.42790259126464 ",Diego de León
+False,False,linea-6-circular,True," -3.6692617275650825, 40.42790259126464 ",Avenida de América
+True,True,linea-2,True," -3.612070828457266, 40.422390661721714 ",Avenida de Guadalajara
+True,True,linea-2,True," -3.6235144027647195, 40.418284443909386 ",Alsacia
+True,True,linea-2,True," -3.6391475841604057, 40.42361352022292 ",La Almudena
+True,True,linea-2,True," -3.650528497343345, 40.4266131180015 ",La Elipa
+False,False,linea-2,False," -3.663667689792175, 40.43088079412545 ",Ventas
+False,False,linea-2,True," -3.6692617275650825, 40.42790259126464 ",Manuel Becerra
+True,True,linea-2,False," -3.6759123759569388, 40.42453956509611 ",Goya
+False,False,linea-2,True," -3.6801282562882505, 40.42293825869698 ",Príncipe de Vergara
+False,False,linea-2,False," -3.6862547889045016, 40.420298442434046 ",Retiro
+False,False,linea-2,False," -3.6862547889045016, 40.420298442434046 ",Banco de España
+False,False,linea-2,False," -3.699256777934109, 40.41804935637811 ",Sevilla
+True,True,linea-2,True," -3.7032639472488222, 40.416871893770455 ",Sol
+True,True,linea-2,True," -3.7094295067152068, 40.41808648235822 ",Ópera
+False,False,linea-2,False," -3.70796634277563, 40.421311677323516 ",Santo Domingo
+False,False,linea-2,True," -3.7074256795634843, 40.42483751820921 ",Noviciado
+False,False,linea-2,False," -3.7055818156463136, 40.43001095773282 ",San Bernardo
+False,False,linea-2,False," -3.7043420216216063, 40.43321671973448 ",Quevedo
+True,True,linea-2,True," -3.704337220993404, 40.43840594045452 ",Canal
+True,True,linea-5,True," -3.587529851420831, 40.457788368783184 ",Alameda de Osuna
+False,False,linea-4,False," -3.7055818156463136, 40.43001095773282 ",San Bernardo
+False,False,linea-4,False," -3.702188295886296, 40.42904963582931 ",Bilbao
+False,False,linea-4,True," -3.702188295886296, 40.42904963582931 ",Alonso Martínez
+False,False,linea-4,False," -3.702188295886296, 40.42904963582931 ",Colón
+False,False,linea-4,False," -3.686637031792093, 40.42543132477729 ",Serrano
+False,False,linea-4,False," -3.686637031792093, 40.42543132477729 ",Velázquez
+True,True,linea-4,False," -3.6759123759569388, 40.42453956509611 ",Goya
+False,False,linea-4,False," -3.6754163728813944, 40.429164099118886 ",Lista
+False,False,linea-4,True," -3.6754163728813944, 40.429164099118886 ",Diego de León
+False,False,linea-4,True," -3.6754163728813944, 40.429164099118886 ",Avenida de América
+False,False,linea-4,True," -3.6748238288203408, 40.444185596768286 ",Prosperidad
+False,False,linea-4,True," -3.6679186527610956, 40.44824371776939 ",Alfonso XIII
+False,False,linea-4,True," -3.6611898359519834, 40.4535346495725 ",Avenida de La Paz
+False,False,linea-4,True," -3.6561881225682944, 40.45582440947207 ",Arturo Soria
+False,False,linea-4,True," -3.645820621327798, 40.45944135187602 ",Esperanza
+True,True,linea-4,True," -3.635600579737649, 40.46380429988092 ",Canillas
+True,True,linea-12-metrosur,True," -3.7340338202855166, 40.309922620744835 ",Getafe Central
+True,True,linea-12-metrosur,True," -3.7222501498250757, 40.31179862923095 ",Juan de la Cierva
+True,True,linea-12-metrosur,True," -3.7098585802082673, 40.318623218355846 ",El Casar
+True,True,linea-12-metrosur,True," -3.718203881803276, 40.324220465768875 ",Los Espartales
+True,True,linea-12-metrosur,True," -3.729638476861858, 40.32906791420299 ",El Bercial
+True,True,linea-12-metrosur,True," -3.7401861342319944, 40.33663165911443 ",El Carrascal
+True,True,linea-12-metrosur,True," -3.7401861342319944, 40.33663165911443 ",Julián Besteiro
+True,True,linea-12-metrosur,True," -3.759428416851752, 40.32659685107382 ",Casa del Reloj
+True,True,linea-12-metrosur,True," -3.767978430492755, 40.321765545104476 ",Hospital Severo Ochoa
+True,True,linea-12-metrosur,True," -3.767978430492755, 40.321765545104476 ",Leganés Central
+True,True,linea-12-metrosur,True," -3.7758763365834476, 40.33615451429297 ",San Nicasio
+True,True,linea-3,False," -3.7056671453961694, 40.420127531994346 ",Ventura Rodríguez
+True,True,linea-3,True," -3.715975031788373, 40.430658770692084 ",Argüelles
+True,True,linea-3,True," -3.7194521744896463, 40.43501556410216 ",Moncloa
+False,False,linea-6-circular,True," -3.6692617275650825, 40.42790259126464 ",República Argentina
+True,True,linea-6-circular,True," -3.6924180862691784, 40.446577042902604 ",Nuevos Ministerios
+True,True,linea-6-circular,True," -3.7039784766540205, 40.446966678007556 ",Cuatro Caminos
+True,True,linea-6-circular,True," -3.7039784766540205, 40.446966678007556 ",Guzmán el Bueno
+False,False,linea-6-circular,True," -3.7039784766540205, 40.446966678007556 ",Vicente Aleixandre
+True,True,linea-6-circular,True," -3.7267950694327174, 40.44355521068528 ",Ciudad Universitaria
+True,True,linea-6-circular,True," -3.7194521744896463, 40.43501556410216 ",Moncloa
+True,True,linea-6-circular,True," -3.715975031788373, 40.430658770692084 ",Argüelles
+True,True,linea-6-circular,True," -3.715975031788373, 40.430658770692084 ",Príncipe Pío
+False,False,linea-6-circular,True," -3.715975031788373, 40.430658770692084 ",Puerta del Ángel
+False,False,linea-6-circular,True," -3.7389377724748316, 40.40991964465942 ",Alto de Extremadura
+True,True,linea-6-circular,True," -3.7453431334630922, 40.40509472797641 ",Lucero
+True,True,linea-2,True," -3.7039784766540205, 40.446966678007556 ",Cuatro Caminos
+True,True,linea-5,True," -3.5940139675362324, 40.45346693887937 ",El Capricho
+False,False,linea-5,True," -3.608164956973511, 40.44942037767125 ",Canillejas
+False,False,linea-5,True," -3.6170047299183143, 40.44374289429119 ",Torre Arias
+False,False,linea-5,True," -3.6268474470761722, 40.44084308870699 ",Suanzes
+False,False,linea-5,False," -3.638164089763644, 40.43804242659882 ",Ciudad Lineal
+True,True,linea-5,True," -3.642834403605827, 40.43569222122078 ",Pueblo Nuevo
+False,False,linea-5,False," -3.647365166136872, 40.43357684329915 ",Quintana
+False,False,linea-5,True," -3.657582365367643, 40.431888543471025 ",El Carmen
+False,False,linea-5,False," -3.663667689792175, 40.43088079412545 ",Ventas
+False,False,linea-5,True," -3.663667689792175, 40.43088079412545 ",Diego de León
+False,False,linea-5,True," -3.663667689792175, 40.43088079412545 ",Núñez de Balboa
+False,False,linea-5,False," -3.663667689792175, 40.43088079412545 ",Rubén Darío
+False,False,linea-5,True," -3.663667689792175, 40.43088079412545 ",Alonso Martínez
+False,False,linea-5,True," -3.69762156530907, 40.422924115641855 ",Chueca
+False,False,linea-5,True," -3.69762156530907, 40.422924115641855 ",Gran Vía
+True,True,linea-4,True," -3.6383312545367454, 40.46941986762225 ",Mar de Cristal
+True,True,linea-4,True," -3.6395823502616023, 40.47446698722932 ",San Lorenzo
+True,True,linea-4,True," -3.6395823502616023, 40.47446698722932 ",Parque de Santa María
+True,True,linea-4,True," -3.6525796374794783, 40.47536730266078 ",Hortaleza
+True,True,linea-4,True," -3.662905158694452, 40.476867092844046 ",Manoteras
+True,True,linea-4,True," -3.6668070437216325, 40.48013291749131 ",Pinar de Chamartín
+True,True,linea-5,True," -3.7056671453961694, 40.420127531994346 ",Callao
+True,True,linea-5,True," -3.7094295067152068, 40.41808648235822 ",Ópera
+False,False,linea-5,True," -3.7081675783047383, 40.4112743722751 ",La Latina
+False,False,linea-5,False," -3.711057633812725, 40.40703138929742 ",Puerta de Toledo
+False,False,linea-5,False," -3.7066522311398944, 40.40386919094474 ",Acacias
+True,True,linea-5,True," -3.7066522311398944, 40.40386919094474 ",Pirámides
+False,False,linea-5,False," -3.7066522311398944, 40.40386919094474 ",Marqués de Vadillo
+False,False,linea-5,False," -3.723615630429613, 40.39334979453965 ",Urgel
+False,False,linea-5,True," -3.731327675889255, 40.38846340308106 ",Oporto
+False,False,linea-5,False," -3.7398266451178808, 40.388841774504186 ",Vista Alegre
+False,False,linea-5,False," -3.751916263742287, 40.37199788960605 ",Carabanchel
+True,True,linea-5,True," -3.7512174724118132, 40.384380915779076 ",Eugenia de Montijo
+True,True,linea-5,True," -3.760809652950178, 40.38562451896221 ",Aluche
+True,False,linea-5,False," -3.7653543590645233, 40.39056753293377 ",Empalme
+False,False,linea-5,False," -3.7681359752950083, 40.39480136388358 ",Campamento
+True,True,linea-5,True," -3.7610192808902423, 40.40319981212787 ",Casa de Campo
+True,True,ramal,True," -3.7094295067152068, 40.41808648235822 ",Ópera
+True,True,ramal,True," -3.7094295067152068, 40.41808648235822 ",Príncipe Pío
