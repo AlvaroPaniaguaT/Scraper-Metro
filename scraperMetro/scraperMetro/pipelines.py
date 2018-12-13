@@ -9,6 +9,7 @@ import xml.etree.ElementTree as ET
 class ScrapermetroPipeline(object):
 
     def open_spider(self, spider):
+        # Poner Path a los KML del equipo local
         self.file_metro = ET.parse('/home/alvaro/Escritorio/Máster-DataScience/Obtencion-De-Datos/Scraper-Metro/scraperMetro/scraperMetro/Metro_2018_11.kml')
         self.file_metro_l = ET.parse('/home/alvaro/Escritorio/Máster-DataScience/Obtencion-De-Datos/Scraper-Metro/scraperMetro/scraperMetro/MetroLigero_2018_11.kml')
         self.root = self.file_metro.getroot()
