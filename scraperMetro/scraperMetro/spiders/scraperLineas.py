@@ -25,8 +25,13 @@ class ScraperlineasSpider(scrapy.Spider):
     def parse_stations(self, response):
         item = SMI()
         item['line'] = response.meta['line_name']
+
         for station in response.xpath("//*[@id='line-main']/ul/li"):
             item['station'] = station.xpath(".//a/p/text()").extract_first()
+            station_path = station.xpath('.//a/@href').extract_first()
+            self.log(station_path)
+            urlinea = response.urljoin(station_path)
+            item['url_linea'] = urlinea
             info_list = station.xpath(".//*[@id]/div/div/div/div/div/div/div/div/span/text()").extract()
             if "Estación accesible" in info_list:
                 item['accesible'] = True

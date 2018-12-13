@@ -16,3 +16,4 @@ class ScrapermetroItem(scrapy.Item):
     elevator = scrapy.Field()
     mechanic_stairs = scrapy.Field()
     coordinates = scrapy.Field()
+    url_linea = scrapy.Field()
